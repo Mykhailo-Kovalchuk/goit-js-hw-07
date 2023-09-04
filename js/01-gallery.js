@@ -76,6 +76,7 @@ instance.show();
 //  Використовуй готову розмітку модального вікна із зображенням з прикладів бібліотеки
 //  basicLightbox. (вище в рядку <img src="${event.target.dataset.source}" alt="${event.target.alt} width="800" height="600"")
 
+
 // console.log(event.target);
 // console.log("--------------------------------------------");
 // console.log(targetElement);
